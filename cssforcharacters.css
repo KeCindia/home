@@ -1,0 +1,28 @@
+/*I made a new css for this webpage because of the fact that it's made to show the info on characters*/
+h3{
+	font-size: 20pt;
+	font-family: "arial narrow", arial;
+	margin-bottom:1%;
+}
+body{
+	text-align: left;
+}
+img{
+	float: left;
+}
+ul{
+	width: auto;
+	margin: auto;
+}
+body{
+	margin-left: 5%;
+	margin-right: 2%;
+}
+.important{
+	font-family: "OCR A Std", monospace;
+	font-size: 20pt;
+	margin-bottom: 1%;
+}
+p{
+	font-family: courier, monospace;
+}
